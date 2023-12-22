@@ -18,7 +18,6 @@ DB_NAME= "talentara"
 DB_HOSTNAME="" `
 
 ```
-
 4. Open terminal in the project root directory, then run ` npm install ` and then run ` npm install dotenv ` to install the dependencies.
 5. Run the app using the command: ` node src/index.js `
 6. The server will run in the localhost with the port 8080, open http://localhost:8080 to view it in your browser.
