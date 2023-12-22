@@ -15,7 +15,7 @@ DB_PASSWORD= ""
 #Fill "" with your database name ex: talentara
 DB_NAME= "talentara"
 #Fill "" with your database host name ex: localhost
-DB_HOSTNAME="" `
+DB_HOSTNAME="" 
 
 ```
 4. Open terminal in the project root directory, then run ` npm install ` and then run ` npm install dotenv ` to install the dependencies.
